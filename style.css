@@ -18,7 +18,7 @@ p{
   p:{
      font-size: 10px;
      }
-} /* smartphones, iPhone, portrait 480x320 phones */
+}
 @media (min-width:481px) {
   h1{
     font-size: 13px;
@@ -26,7 +26,7 @@ p{
   p:{
      font-size: 11px;
      }
- } /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+ }
 @media (min-width:641px) {
   h1{
     font-size: 14px;
@@ -34,7 +34,7 @@ p{
   p:{
      font-size: 12px;
      }
- } /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
+ }
 @media (min-width:961px) {
   h1{
     font-size: 15px;
@@ -42,7 +42,7 @@ p{
   p:{
      font-size: 13px;
      }
- } /* tablet, landscape iPad, lo-res laptops ands desktops */
+ }
 @media (min-width:1025px) {
   h1{
     font-size: 16px;
@@ -50,7 +50,7 @@ p{
   p:{
      font-size: 14px;
      }
-  } /* big landscape tablets, laptops, and desktops */
+  }
 @media (min-width:1281px) {
   h1{
     font-size: 18px;
@@ -58,4 +58,4 @@ p{
   p:{
      font-size: 15px;
      }
- } /* hi-res laptops and desktops */
+ }
